@@ -54,10 +54,7 @@ Insight utama:
 2. **Mayoritas pesanan berada dekat 0 hari keterlambatan**, namun ada ekor/outlier keterlambatan yang cukup ekstrem.
 3. **Rasio keterlambatan berbeda antar provinsi (`customer_state`)**, sehingga bisa menjadi titik awal investigasi operasional/logistik untuk wilayah tertentu.
 
-## (Opsional) Screenshot Dashboard
-Tambahkan screenshot dashboard ke repository, misalnya simpan di `docs/screenshot-dashboard.png`, lalu tautkan di sini.
+## Live Dashboard
 
-Contoh:
-```md
-![Dashboard Screenshot](docs/screenshot-dashboard.png)
-```
+[Klik di sini untuk membuka dashboard Streamlit](https://olist-delivery-delay.streamlit.app/)
+
